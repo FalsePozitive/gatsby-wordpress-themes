@@ -10,9 +10,9 @@
   ],
   "scripts": {
     "dev": "yarn workspace site dev",
-	"dev:clean": "yarn workspace site dev:clean",
+    "dev:clean": "yarn workspace site dev:clean",
     "build": "yarn workspace site build",
-	"serve": "yarn workspace site serve",
+    "serve": "yarn workspace site serve",
     "clean": "yarn workspace site clean"
   },
   "repository": {
@@ -20,9 +20,9 @@
     "url": "git+https://github.com/imranhsayed/gatsby-wordpress-theme.git"
   },
   "keywords": [
-	"gatsby",
-	"gatsby-plugin",
-	"gatsby-theme",
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-theme",
     "gatsby-wordpress-theme",
     "wordpress",
     "react",
